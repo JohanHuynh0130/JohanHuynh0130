@@ -1,35 +1,55 @@
-<h1 align="center">Johan Huynh</h1>
-
 <p align="center">
-  Building practical software across SaaS, automation, and applied AI.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:0f766e&height=220&section=header&text=Johan%20Huynh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Private-first%20builder%20shipping%20SaaS,%20automation,%20and%20AI%20products.&descAlignY=60"
+    alt="Johan Huynh profile banner"
+  >
 </p>
 
 <p align="center">
-  <img alt="Focus on private products" src="https://img.shields.io/badge/focus-private%20products-0f172a?style=for-the-badge">
-  <img alt="Core stack TypeScript" src="https://img.shields.io/badge/core-typescript-2563eb?style=for-the-badge">
-  <img alt="Building automation systems" src="https://img.shields.io/badge/building-automation%20systems-0f766e?style=for-the-badge">
-  <img alt="Exploring applied AI" src="https://img.shields.io/badge/exploring-applied%20AI-b45309?style=for-the-badge">
+  I build useful software with ambition, taste, and a bias toward shipping.
 </p>
 
-> Most of my best work is private right now. This profile shows the direction, not the full inventory.
+<p align="center">
+  <img alt="Private-first builder" src="https://img.shields.io/badge/private--first-builder-111827?style=for-the-badge">
+  <img alt="Shipping SaaS" src="https://img.shields.io/badge/shipping-SaaS-1d4ed8?style=for-the-badge">
+  <img alt="Automation systems" src="https://img.shields.io/badge/building-automation-0f766e?style=for-the-badge">
+  <img alt="Applied AI" src="https://img.shields.io/badge/using-applied%20AI-b45309?style=for-the-badge">
+</p>
 
-## What I'm building
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
 
-- SaaS products for real-world operational problems
-- internal tools and automation workflows
-- AI-assisted product experiments
-- data-heavy side projects
+> Most of my best work lives in private repositories. This page is the public slice of what I'm building.
 
-## Current focus
+## What I'm About
 
-- a private SaaS product for blue-collar teams
-- product-driven builds in TypeScript and JavaScript
-- systems that make shipping faster and cleaner
+- building products that solve real operational problems
+- turning repetitive work into clean automation
+- using AI where it creates real leverage, not just noise
+- shipping fast without making the work look rushed
 
-## Public work
+## Current Lane
 
-- [VirtualStagingAI](https://github.com/JohanHuynh0130/VirtualStagingAI) - public AI project currently being cleaned up and expanded
+| Building | Why it matters |
+| --- | --- |
+| Private SaaS products | Real software for real teams |
+| Internal tools and automation | Less friction, faster execution |
+| Data-heavy experiments | Better decisions, sharper systems |
+| Public profile and case studies | Making the work easier to see |
 
-## Stack
+## Working Style
 
-TypeScript, JavaScript, Python, HTML/CSS, automation, product thinking
+- practical over performative
+- ambitious on purpose
+- clean execution over clutter
+- more shipping, less talking
+
+## Public Side
+
+More public work and polished case studies are on the way as private projects get cleaned up for release.
